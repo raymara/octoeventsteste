@@ -18,10 +18,10 @@ Para executá-la você deve:
 
 ### Criando o Webhook
 
-1) No repositório do Github, ir em _Settings > Webhooks_  
-2) Selecionar _Add webhook_  
-3) Em _Payload URL_ incluir a URL da API para o Endpoint de Payload. No caso: _{base_url}/events_  
-4) Definir _Content-Type_ como _application/json_ 
+- 1) No repositório do Github, ir em _Settings > Webhooks_  
+- 2) Selecionar _Add webhook_  
+- 3) Em _Payload URL_ incluir a URL da API para o Endpoint de Payload. No caso: _{base_url}/events_  
+- 4) Definir _Content-Type_ como _application/json_ 
 
 ## Utilização
 
