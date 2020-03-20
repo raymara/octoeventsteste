@@ -1,6 +1,6 @@
 # Octoevents API
 
-Octo Events é uma aplicação que recebe e armazena eventos do Github, por intermédio de webhooks e oa eventos são expostos por uma API.
+Octo Events é uma aplicação que recebe e armazena eventos do Github, por intermédio de webhooks e os eventos são expostos por uma API.
 
 
 | Requisito | Descrição | 
