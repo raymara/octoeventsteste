@@ -11,10 +11,10 @@ Octo Events é uma aplicação que recebe e armazena eventos do Github, por inte
 ## Executando a aplicação
 
 Para executá-la você deve: 
-1 - Ter Mysql instalado e criar um schema " testedb", que será a base de dados da aplicação
+- 1 - Ter Mysql instalado e criar um schema " testedb", que será a base de dados da aplicação
     - informar o usuário e a senha do mysql no arquivo properties ( \octoeventsteste\src\main\resources\application.properties)
-2 - Ter o maven instalado e executar: 'mvn spring-boot:run' na raiz do projeto onde está o arquivo pom.xml
-3 - Para testar o funcionamento do webhook em ambiente de desenvolvimento local, é necessário gerar uma url pública apontando para o localhost e configurar o Webhook, foi utilizado o _ngrok_ (https://ngrok.com/).  
+- 2 - Ter o maven instalado e executar: 'mvn spring-boot:run' na raiz do projeto onde está o arquivo pom.xml
+- 3 - Para testar o funcionamento do webhook em ambiente de desenvolvimento local, é necessário gerar uma url pública apontando para o localhost e configurar o Webhook, foi utilizado o _ngrok_ (https://ngrok.com/).  
 
 ### Criando o Webhook
 
